@@ -109,7 +109,7 @@ Then visit: **`http://localhost:8000`**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Under-connstruction/
