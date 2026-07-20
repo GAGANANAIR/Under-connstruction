@@ -1,4 +1,4 @@
-# 🚀 Under Construction - Professional Landing Page
+# Under Construction - Professional Landing Page
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML-5-E34F26.svg)]()
@@ -8,13 +8,13 @@
 
 > A stunning, feature-rich "Coming Soon" landing page with animated backgrounds, live countdown timer, particle effects, and newsletter signup.
 
-**[🌐 View Live Demo](https://gagananair.github.io/Under-connstruction/)** | **[📖 Read Documentation](README.md)**
+**[View Live Demo](https://gagananair.github.io/Under-connstruction/)** | **[📖 Read Documentation](README.md)**
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎨 Design & Visual Effects
+###  Design & Visual Effects
 ✅ **Glassmorphism UI** - Modern frosted glass design  
 ✅ **Animated Gradient Blobs** - 3-layer floating background  
 ✅ **50+ Interactive Particles** - Mouse-tracking particle system  
@@ -22,7 +22,7 @@
 ✅ **Gradient Text** - Dynamic color-shifting hero title  
 ✅ **Responsive Grid** - Mobile-first responsive layout  
 
-### ⏱️ Countdown & Progress
+###  Countdown & Progress
 ✅ **Live Countdown Timer** - Days, Hours, Minutes, Seconds  
 ✅ **Animated Progress Bar** - 65% development completion  
 ✅ **Real-time Stats** - Dynamic signup counter  
@@ -35,7 +35,7 @@
 ✅ **Loading States** - Spinner animations  
 ✅ **Duplicate Prevention** - No duplicate emails  
 
-### 🌟 Advanced Features
+###  Advanced Features
 ✅ **Particle Animation** - 50+ interactive particles  
 ✅ **Scroll Animations** - Lazy load animations  
 ✅ **Smooth Scroll Navigation** - Anchor link scrolling  
@@ -43,7 +43,7 @@
 ✅ **Social Integration** - GitHub, LinkedIn, Twitter, Email  
 ✅ **Error Tracking** - Global error handlers  
 
-### ♿ Accessibility (WCAG 2.1 AA)
+### Accessibility (WCAG 2.1 AA)
 ✅ **Semantic HTML5** - Proper heading hierarchy  
 ✅ **ARIA Labels** - Accessible form labels  
 ✅ **Skip Link** - Skip to main content  
@@ -52,7 +52,7 @@
 ✅ **Reduced Motion** - Respects prefers-reduced-motion  
 ✅ **Screen Reader** - Properly structured content  
 
-### 🔍 SEO Optimization
+### SEO Optimization
 ✅ **Schema.org Markup** - Structured data  
 ✅ **Open Graph Tags** - Facebook sharing  
 ✅ **Twitter Cards** - Twitter integration  
@@ -60,14 +60,14 @@
 ✅ **Mobile Friendly** - Mobile-first design  
 ✅ **Social Preview** - Ready for sharing  
 
-### 📱 Responsive Design
+### Responsive Design
 ✅ **Mobile First** - Built for mobile  
 ✅ **All Breakpoints** - Optimized layouts  
 ✅ **Touch Friendly** - Large buttons/inputs  
 ✅ **Flexible Grids** - CSS Grid auto-fit  
 ✅ **Font Scaling** - Responsive typography  
 
-### 📊 Performance
+### Performance
 ✅ **~15 KB Total** - Minimal file size  
 ✅ **Zero Dependencies** - Pure HTML/CSS/JS  
 ✅ **Modular JavaScript** - 5 separate modules  
@@ -76,7 +76,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Direct Browser
 ```bash
@@ -134,7 +134,7 @@ Under-connstruction/
 
 ---
 
-## 🎨 Customization
+## Customization
 
 ### Change Colors
 Edit CSS variables in `css/style.css`:
@@ -165,7 +165,7 @@ Edit footer in `index.html`:
 
 ---
 
-## 📊 Features Breakdown
+## Features Breakdown
 
 | Feature | Status | Details |
 |---------|--------|----------|
@@ -184,20 +184,20 @@ Edit footer in `index.html`:
 
 ---
 
-## 🔧 Browser Support
+## Browser Support
 
 | Browser | Support | Notes |
 |---------|---------|-------|
-| Chrome 90+ | ✅ Full | Recommended |
-| Firefox 88+ | ✅ Full | Full support |
-| Safari 14+ | ✅ Full | iOS 14+ |
-| Edge 90+ | ✅ Full | Chromium-based |
-| Mobile Browsers | ✅ Full | Responsive design |
-| IE 11 | ⚠️ Limited | No CSS Grid |
+| Chrome 90+ |  Full | Recommended |
+| Firefox 88+ | Full | Full support |
+| Safari 14+ |  Full | iOS 14+ |
+| Edge 90+ |  Full | Chromium-based |
+| Mobile Browsers |  Full | Responsive design |
+| IE 11 |  Limited | No CSS Grid |
 
 ---
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 - **Page Size**: ~15 KB (HTML + CSS + JS)
 - **CSS**: ~8 KB (optimized)
@@ -208,7 +208,7 @@ Edit footer in `index.html`:
 
 ---
 
-## 🎯 Waitlist Management
+##  Waitlist Management
 
 ### Access Stored Emails
 ```javascript
@@ -223,7 +223,7 @@ localStorage.removeItem('under-construction-waitlist')
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -238,24 +238,24 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 👨‍💼 Author
+## Author
 
 **Gagan A Nair**
 
 - 🌐 [Portfolio](https://gagagananair.netlify.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/gagananair)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gagan-a-nair-5761ab345/)
 - 📧 [Email](mailto:gagananair1@gmail.com)
 - 🐙 [GitHub](https://github.com/GAGANANAIR)
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Modern web design practices
 - Glassmorphism design trend
@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 <div align="center">
 
-**Made with ❤️ by [Gagan A Nair](https://github.com/GAGANANAIR)**
+**Made  by [Gagan A Nair](https://github.com/GAGANANAIR)**
 
 [⬆ Back to top](#-under-construction---professional-landing-page)
 
