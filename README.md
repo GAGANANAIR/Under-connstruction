@@ -8,7 +8,7 @@
 
 > A stunning, feature-rich "Coming Soon" landing page with animated backgrounds, live countdown timer, particle effects, and newsletter signup.
 
-**[View Live Demo](https://gagananair.github.io/Under-connstruction/)** | **[📖 Read Documentation](README.md)**
+**[View Live Demo](https://gagananair.github.io/Under-connstruction/)** | **[ Read Documentation](README.md)**
 
 ---
 
