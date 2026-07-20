@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Coming Soon | Gagan A Nair - Building Something Amazing</title>
+    <meta name="description" content="🚀 Something amazing is coming soon. Animated landing page with live countdown timer, newsletter signup, and particle effects. Be the first to know!">
+    <meta name="keywords" content="coming soon, launch, countdown, waitlist, particles, animation">
+    <meta name="author" content="Gagan A Nair">
+    <meta name="theme-color" content="#0f172a">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://gagananair.github.io/Under-connstruction/">
+    <meta property="og:title" content="Coming Soon | Gagan A Nair">
+    <meta property="og:description" content="🚀 Something amazing is coming soon with live countdown timer and newsletter signup.">
+    <meta property="og:image" content="assets/preview.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Coming Soon | Gagan A Nair">
+    <meta name="twitter:description" content="🚀 Something amazing is coming soon.">
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="application/ld+json">
+    {"@context": "https://schema.org", "@type": "Event", "name": "Amazing Project Launch", "description": "An exciting new project launch coming soon"}
+    </script>
+</head>
+<body>
+    <div class="particle-container" id="particleContainer" aria-hidden="true"></div>
+    <div class="floating-elements" aria-hidden="true">
+        <div class="float-item" id="float1"></div>
+        <div class="float-item" id="float2"></div>
+        <div class="float-item" id="float3"></div>
+    </div>
+
+    <main class="container">
+        <nav class="navbar" role="navigation" aria-label="Main navigation">
+            <div class="navbar-content">
+                <div class="navbar-brand">
+                    <img src="assets/logo.svg" alt="Logo" class="logo" width="40" height="40">
+                    <span>Gagan A Nair</span>
+                </div>
+                <div class="navbar-links">
+                    <a href="#features" class="nav-link">Features</a>
+                    <a href="#countdown" class="nav-link">Countdown</a>
+                    <a href="#newsletter" class="nav-link">Newsletter</a>
+                    <a href="#social" class="nav-link">Connect</a>
+                </div>
+            </div>
+        </nav>
+
+        <section class="hero" role="region" aria-labelledby="hero-title">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span class="pulse-dot"></span> Coming Soon
+                </div>
+                <h1 id="hero-title" class="hero-title">Building Something<br><span class="gradient-text">Extraordinary</span></h1>
+                <p class="hero-subtitle">An innovative project crafted with passion. Join thousands waiting for the launch.</p>
+
+                <section class="countdown-section" id="countdown" aria-labelledby="countdown-label">
+                    <h2 id="countdown-label" class="countdown-label">Launch Countdown</h2>
+                    <div class="countdown-timer">
+                        <div class="countdown-item"><div class="countdown-value" id="days">0</div><div class="countdown-unit">Days</div></div>
+                        <div class="countdown-separator">:</div>
+                        <div class="countdown-item"><div class="countdown-value" id="hours">0</div><div class="countdown-unit">Hours</div></div>
+                        <div class="countdown-separator">:</div>
+                        <div class="countdown-item"><div class="countdown-value" id="minutes">0</div><div class="countdown-unit">Minutes</div></div>
+                        <div class="countdown-separator">:</div>
+                        <div class="countdown-item"><div class="countdown-value" id="seconds">0</div><div class="countdown-unit">Seconds</div></div>
+                    </div>
+                    <div class="launch-date"><time id="launchDate" datetime="2026-12-31T00:00:00Z">December 31, 2026</time></div>
+                </section>
+
+                <div class="progress-section">
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" id="progressBar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <div class="progress-label">Development: 65% Complete</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features" id="features" role="region" aria-labelledby="features-title">
+            <h2 id="features-title" class="section-title">What's Coming</h2>
+            <div class="features-grid">
+                <div class="feature-card"><div class="feature-icon">✨</div><h3>Beautiful Design</h3><p>Modern glassmorphism UI with smooth animations</p></div>
+                <div class="feature-card"><div class="feature-icon">⚡</div><h3>Lightning Fast</h3><p>Optimized performance with instant load times</p></div>
+                <div class="feature-card"><div class="feature-icon">🔐</div><h3>Secure & Private</h3><p>Industry-standard security practices</p></div>
+                <div class="feature-card"><div class="feature-icon">📱</div><h3>Mobile Ready</h3><p>Fully responsive on all devices</p></div>
+                <div class="feature-card"><div class="feature-icon">🌐</div><h3>Cross-Platform</h3><p>Consistent experience everywhere</p></div>
+                <div class="feature-card"><div class="feature-icon">🚀</div><h3>Innovation First</h3><p>Built with cutting-edge technology</p></div>
+            </div>
+        </section>
+
+        <section class="newsletter" id="newsletter" role="region" aria-labelledby="newsletter-title">
+            <div class="newsletter-content">
+                <h2 id="newsletter-title" class="section-title">Be the First to Know</h2>
+                <p class="newsletter-subtitle">Get notified when we launch. Early access and exclusive updates await.</p>
+                <form class="newsletter-form" id="newsletterForm" novalidate>
+                    <div class="form-group">
+                        <input type="email" id="emailInput" class="form-input" placeholder="Enter your email" required aria-label="Email address">
+                        <button type="submit" class="btn btn-primary" id="submitBtn"><span class="btn-text">Notify Me</span><span class="btn-spinner" aria-hidden="true"></span></button>
+                    </div>
+                    <div class="form-message" id="formMessage" role="status" aria-live="polite"></div>
+                </form>
+                <div class="newsletter-stats">
+                    <div class="stat-item"><div class="stat-number" id="totalSignups">1,247</div><div class="stat-label">People Waiting</div></div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item"><div class="stat-number">65%</div><div class="stat-label">Complete</div></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="social" id="social" role="region" aria-labelledby="social-title">
+            <h2 id="social-title" class="section-title">Connect With Me</h2>
+            <div class="social-links">
+                <a href="https://github.com/GAGANANAIR" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="GitHub">GitHub</a>
+                <a href="https://linkedin.com/in/gagananair" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="LinkedIn">LinkedIn</a>
+                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Twitter">Twitter</a>
+                <a href="mailto:gagananair1@gmail.com" class="social-link" aria-label="Email">Email</a>
+            </div>
+        </section>
+
+        <section class="cta">
+            <h2>Don't Miss the Launch</h2>
+            <p>Join 1000+ people staying updated</p>
+            <button class="btn btn-primary btn-large" onclick="document.getElementById('emailInput').focus()">Join Waitlist</button>
+        </section>
+    </main>
+
+    <footer class="footer" role="contentinfo">
+        <div class="footer-content">
+            <div class="footer-section"><h4>About</h4><p>Crafted with passion by Gagan A Nair</p></div>
+            <div class="footer-section"><h4>Resources</h4><ul><li><a href="#">Documentation</a></li><li><a href="#">Blog</a></li></ul></div>
+            <div class="footer-section"><h4>Legal</h4><ul><li><a href="#">Privacy</a></li><li><a href="#">Terms</a></li></ul></div>
+        </div>
+        <div class="footer-bottom"><p>&copy; 2024-2026 Gagan A Nair | Built for GitHub Pages</p></div>
+    </footer>
+
+    <div class="loading-bar" id="loadingBar" aria-hidden="true"></div>
+    <a href="#newsletter" class="skip-link">Skip to Newsletter</a>
+
+    <script src="js/particles.js"></script>
+    <script src="js/countdown.js"></script>
+    <script src="js/newsletter.js"></script>
+    <script src="js/animations.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

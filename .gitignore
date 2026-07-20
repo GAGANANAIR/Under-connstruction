@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+dist/
+build/
+*.min.js
+*.min.css
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+*.log
+
+# Testing
+.coverage/
+.nyc_output/
+coverage/
+
+# Temporary
+tmp/
+temp/
+*.tmp
+.cache/
