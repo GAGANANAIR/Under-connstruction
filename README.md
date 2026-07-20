@@ -248,10 +248,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 **Gagan A Nair**
 
-- 🌐 [Portfolio](https://gagagananair.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gagan-a-nair-5761ab345/)
-- 📧 [Email](mailto:gagananair1@gmail.com)
-- 🐙 [GitHub](https://github.com/GAGANANAIR)
+- [Portfolio](https://gagagananair.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/gagan-a-nair-5761ab345/)
+- [Email](mailto:gagananair1@gmail.com)
+- [GitHub](https://github.com/GAGANANAIR)
 
 ---
 
@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ---
 
-## 📚 Resources
+## Resources
 
 ### Learning
 - [MDN Web Docs](https://developer.mozilla.org/)
