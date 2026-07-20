@@ -28,7 +28,7 @@
 ✅ **Real-time Stats** - Dynamic signup counter  
 ✅ **Launch Date Display** - Formatted time display  
 
-### 📧 Newsletter System
+### Newsletter System
 ✅ **Email Validation** - Regex-based validation  
 ✅ **LocalStorage Persistence** - Saves emails locally  
 ✅ **Form Feedback** - Success/error messages  
