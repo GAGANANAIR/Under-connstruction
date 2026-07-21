@@ -1,6 +1,6 @@
 # Under Construction - Professional Landing Page
 
-#This work is in under constuction  only if anyone is intreasted we can do a collab.
+This work is in under constuction  only if anyone is intreasted we can do a collab.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML-5-E34F26.svg)]()
