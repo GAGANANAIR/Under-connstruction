@@ -14,7 +14,8 @@ This work is in under constuction  only if anyone is intreasted we can do a coll
 
 ---
 
-## Features-which all have done
+## Features-which all have done and can be able to fact check or recheck these all by you guys whhich you guys needed ways
+
 
 ###  Design & Visual Effects
  **Glassmorphism UI** - Modern frosted glass design  
