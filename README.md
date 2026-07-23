@@ -14,9 +14,7 @@ You guys can put or create you ideas over here.
 
 ---
 
-## Features-which all have done and can be able to fact check or recheck these all by you guys whhich you guys needed ways
-
-
+## Features Added
 ###  Design & Visual Effects
  **Glassmorphism UI** - Modern frosted glass design  
  **Animated Gradient Blobs** - 3-layer floating background  
